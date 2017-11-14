@@ -10,7 +10,7 @@
   "author": "skratchdot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/skratchdot/react-bootstrap-daterangepicker.git"
+    "url": "git@github.com:yulingchen/react-bootstrap-daterangepicker-fork2.git"
   },
   "bugs": {
     "url": "https://github.com/skratchdot/react-bootstrap-daterangepicker/issues"
